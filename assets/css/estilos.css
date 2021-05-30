@@ -1,10 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=KoHo:wght@200;300;400;500;600;700&display=swap');
 * {
     margin: 0;    
     padding: 0;
     list-style: none;
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'KoHo', sans-serif;
 }
 
 .lengu {
-    font-size: 2vw;
+    font-size: 2em;
+}
+
+.h1 {
+    font-size: 5em;
 }
